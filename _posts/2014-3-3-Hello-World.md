@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Bienvenido a mi blog personal!!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#Datos personales
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Profesión: Ingeniero en sistemas computacionales.
+Estado civil: Casado
+Ocupación: Estudiante de posgrado en Universidad Autónoma de Baja California
+
+#Datos académicos
+Línea de investigación: Algoritmos de Aprendizaje Automatizado (AAA) aplicados a la salud.
+Tema específico: Modelo de inferencia para estimar la calidad del sueño a partir de los factores de la higiene del sueño, mediante AAA.
