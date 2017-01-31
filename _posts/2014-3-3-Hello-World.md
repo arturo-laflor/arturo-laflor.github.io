@@ -15,5 +15,5 @@ Línea de investigación: Algoritmos de Aprendizaje Automatizado (AAA) aplicados
 Tema específico: Modelo de inferencia para estimar la calidad del sueño a partir de los factores de la higiene del sueño, mediante AAA.
 
 # Otros temas de interés
-*Nutrición
-*Espiritualidad
+* Nutrición
+* Espiritualidad
